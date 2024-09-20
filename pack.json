@@ -1,8 +1,8 @@
 {
-    "name": "ExamplePackage",
+    "name": "Hide And Seek",
     "version": "1.0.0",
-    "description": "A simple example package for JackAttack.",
-    "author": "Your Name",
+    "description": "Do you want to play?",
+    "author": "ITS ME",
     "license": "MIT",
     "dependencies": {
         "requests": "^2.25.1"
