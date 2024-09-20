@@ -1,0 +1,10 @@
+{
+    "name": "ExamplePackage",
+    "version": "1.0.0",
+    "description": "A simple example package for JackAttack.",
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "requests": "^2.25.1"
+    }
+}
